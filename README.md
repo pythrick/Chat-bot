@@ -1,6 +1,7 @@
 # Chat bot
 Chatbot based in comments from Reddit comments in December 2017.
 
+![Demo](https://user-images.githubusercontent.com/23041890/120270860-9bc65180-c280-11eb-94d4-18d66cbd1749.gif)
 
 ## Requirements
 - Python 3.9.5
